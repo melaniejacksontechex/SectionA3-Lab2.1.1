@@ -1,8 +1,8 @@
 # TODO: Replace with your team name
 
-## Our Team
+## Team A3
 
-TODO: Replace with your team members
+Amanda Chinaza Eni
 
 ## How to run the streamlit app
 
